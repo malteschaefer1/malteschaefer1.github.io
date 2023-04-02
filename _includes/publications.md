@@ -8,7 +8,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/ed_review_ga.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">EcodesignA</abbr>
+    <abbr class="badge">Ecodesign</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -18,7 +18,7 @@
     <div class="links">
       <a href="https://www.mdpi.com/2071-1050/13/1/315/pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://www.mdpi.com/2071-1050/13/1/315/s1" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">SI</a>
-      <strong><i style="color:#e74d3c">Journal Article</i></strong>
+      <strong><i style="color:#cc8899">Journal Article</i></strong>
     </div>
   </div>
 </div>
