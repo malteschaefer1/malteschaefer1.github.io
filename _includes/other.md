@@ -15,7 +15,7 @@
 <h4 style="margin:0 10px 0;">Science Slams</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://www.youtube.com/live/aqBtbqUeIA0?feature=share&t=3157"><autocolor>Haus der Wissenschaft, Braunschweig (2021)</autocolor></a></li> - <a href="assets/files/slam_bs_2021.pdf"><autocolor>Presentation slides</autocolor></a></li>
+  <li><a href="https://www.youtube.com/live/aqBtbqUeIA0?feature=share&t=3157"><autocolor>Haus der Wissenschaft, Braunschweig (2021)</autocolor> - <a href="assets/files/slam_bs_2021.pdf"><autocolor>Presentation slides</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Lobbying</h4>
