@@ -8,9 +8,9 @@ I am a Ph.D. student at TU Braunschweig.
 
 ## Research Interests
 
-- **Life Cycle Assessment:** a, b ,c
-- **Corporate Greenhouse Gas Accounting:** d, e, f
-- **Electricity-related Emissions:** g, h, i
+- **Life Cycle Assessment (LCA)**
+- **Corporate greenhouse gas accounting, reporting & targeting**
+- **Electricity-related (scope 2) emissions**
 
 ## News
 
