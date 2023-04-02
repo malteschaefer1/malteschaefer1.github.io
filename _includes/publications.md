@@ -17,7 +17,7 @@
     <div class="periodical"><em>Springer/Technologies for economic and functional lightweight design, 2021.</em></div>
     <div class="links">
       <a href="https://link.springer.com/content/pdf/10.1007/978-3-662-62924-6_8.pdf?pdf=inline%20link" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong><i style="color:#cc8899">Conference paper</i></strong>
+      <strong><i style="color:#A8DADC">Conference paper</i></strong>
     </div>
   </div>
 </div>
@@ -38,7 +38,7 @@
     <div class="links">
       <a href="https://www.mdpi.com/2071-1050/13/1/315/pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://www.mdpi.com/2071-1050/13/1/315/s1" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">SI</a>
-      <strong><i style="color:#cc8899">Journal article</i></strong>
+      <strong><i style="color:#A8DADC">Journal article</i></strong>
     </div>
   </div>
 </div>
@@ -58,7 +58,7 @@
     <div class="periodical"><em>Springer/Progress in Life Cycle Assessment 2019, 2020.</em></div>
     <div class="links">
       <a href="https://link.springer.com/content/pdf/10.1007/978-3-030-50519-6_7.pdf?pdf=inline%20link" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong><i style="color:#cc8899">Book chapter</i></strong>
+      <strong><i style="color:#A8DADC">Book chapter</i></strong>
     </div>
   </div>
 </div>
