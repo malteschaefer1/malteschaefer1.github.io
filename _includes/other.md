@@ -77,11 +77,18 @@
     </div>
 </ul>
 
+<ul style="margin:0 0 5px;">
+  <li>[German] Guest lecture on ecodesign and LCA (2017)</li>
+    <div class="links">
+      <a href="assets/files/ed_lca_kl2.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+</ul>
+
 
 <h4 style="margin:0 10px 0;">Science communication</h4>
 
 <ul style="margin:0 0 5px;">
-  <li>[German] Meet a scientist event at phaeno Wolfsburg on renewable electricity (2022)
+  <li>[German] "Meet a scientist" at phaeno Wolfsburg on renewable electricity (2022)
     <div class="links">
       <a href="assets/files/wisskomm_phaeno.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
