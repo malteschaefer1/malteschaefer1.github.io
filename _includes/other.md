@@ -78,10 +78,22 @@
 </ul>
 
 
-<h4 style="margin:0 10px 0;">Science Slams</h4>
+<h4 style="margin:0 10px 0;">Science communication</h4>
 
 <ul style="margin:0 0 5px;">
-  <li>[German] "A cake made from renewable electricity" - 1st place (2021)
+  <li>[German] Meet a scientist event at phaeno Wolfsburg on renewable electricity (2022)
+    <div class="links">
+      <a href="assets/files/wisskomm_phaeno.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </li>
+    <ul>
+      <li><a href="https://www.phaeno.de/veranstaltungen/wissenschaft-und-technik/">Link to phaeno Wolfsburg</a></li>
+      <li><a href="https://magazin.tu-braunschweig.de/event/oekostrom-ist-nicht-gleich-oekostrom/">Reporting on the event</a></li>
+    </ul>
+</ul>
+
+<ul style="margin:0 0 5px;">
+  <li>[German] "A cake made from renewable electricity" - Science slam, 1st place (2021)
     <div class="links">
       <a href="https://www.youtube.com/live/aqBtbqUeIA0?feature=share&t=3157" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
       <a href="assets/files/slam_bs_2021.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
