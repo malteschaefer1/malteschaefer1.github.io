@@ -105,6 +105,14 @@
 <h4 style="margin:0 10px 0;">Lobbying</h4>
 
 <ul style="margin:0 0 5px;">
+  <li>[German] Lobbying the state of Lower-Saxony for a greener electricity supply (2022)</li>
+    <a href="assets/files/oekostrom_nlbl.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    <ul>
+      <li><a href="https://www.mf.niedersachsen.de/startseite/aktuelles/presseinformationen/niedersachsen-bezieht-ab-2017-fuer-landeseigene-gebaeude-100-prozent-oekostrom-149855.html">State press release (2016) on its electricity supply</a></li>
+    </ul>
+</ul>
+
+<ul style="margin:0 0 5px;">
   <li>Open letter to the IEA on open data (2021)</li>
     <a href="assets/files/iea_letter.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     <ul>
