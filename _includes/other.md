@@ -38,6 +38,17 @@
 </ul>
 
 <ul style="margin:0 0 5px;">
+  <li>Decomposition of the SBTi Sectoral Decarbonization Approach (2021)"
+    <div class="links">
+    <a href="assets/files/sbti_sda.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </li>
+    <ul>
+      <li><a href="https://sciencebasedtargets.org/resources/files/Sectoral-Decarbonization-Approach-Report.pdf">Link to the SBTi Sectoral Decarbonization Approach (SDA)</a></li>
+    </ul>
+</ul>
+
+<ul style="margin:0 0 5px;">
   <li>Assessing the environmental impact of electricity from renewable energy sources (2020)
     <div class="links">
       <a href="assets/files/res_impact.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
