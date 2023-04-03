@@ -32,7 +32,16 @@
 </ul>
 
 <ul style="margin:0 0 5px;">
-  <li>Guest lecture at BU Wuppertal about sustainability in product development (2018)</li>
+  <li>[German] Analysis of an expert survey on the application of LCA (2020)
+    <a href="assets/files/lca_expert_survey.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+  </li>
+    <ul>
+      <li><a href="https://plattform-forel.de/">Link to the FOREL initiative</a></li>
+    </ul>
+</ul>
+
+<ul style="margin:0 0 5px;">
+  <li>[German] Guest lecture at BU Wuppertal about sustainability in product development (2018)</li>
     <a href="assets/files/lecture_wuppertal.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
 </ul>
 
@@ -45,6 +54,7 @@
     <a href="assets/files/slam_bs_2021.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
   </li>
 </ul>
+
 
 <h4 style="margin:0 10px 0;">Lobbying</h4>
 
