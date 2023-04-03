@@ -1,9 +1,17 @@
 ## Other work
 
-<h4 style="margin:0 10px 0;">Presentations</h4>
+<h4 style="margin:0 10px 0;">Visualizing information</h4>
 
 <ul style="margin:0 0 5px;">
   <li>A taxonomy of demand side management, based on Meyabadi & Deihimi (2017)</li>
+    <a href="assets/files/h2_chromatography_03.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    <ul>
+      <li><a href="https://energy.ec.europa.eu/publications/delegated-regulation-union-methodology-rfnbos_en">Link to the EU Delegated Act</a></li>
+    </ul>
+</ul>
+
+<ul style="margin:0 0 5px;">
+  <li>European hydrogen chromatography - a flowchart based on the proposed EU Delegated Act on Renewable Hydrogen</li>
     <a href="assets/files/dsm_taxonomy.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     <ul>
       <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S1364032117308481">Link to the research article by Meyabadi & Deihimi</a></li>
