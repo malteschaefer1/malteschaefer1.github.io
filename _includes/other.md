@@ -38,7 +38,18 @@
 </ul>
 
 <ul style="margin:0 0 5px;">
-  <li>[German] Analysis of an expert survey on the application of LCA (2020)
+  <li>Assessing the environmental impact of electricity from renewable energy sources (2020)
+    <div class="links">
+      <a href="assets/files/res_impact.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </li>
+    <ul>
+      <li><a href="https://www.tu-braunschweig.de/elenia/forschung/flexess">Link to the flexess project website</a></li>
+    </ul>
+</ul>
+
+<ul style="margin:0 0 5px;">
+  <li>[German] Evaluation of an expert survey on the application of LCA (2020)
     <div class="links">
       <a href="assets/files/lca_expert_survey.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
@@ -59,7 +70,7 @@
 <h4 style="margin:0 10px 0;">Science Slams</h4>
 
 <ul style="margin:0 0 5px;">
-  <li>[German] Haus der Wissenschaft, Braunschweig - 1st place (2021)
+  <li>[German] "A cake made from renewable electricity" - 1st place (2021)
     <div class="links">
       <a href="https://www.youtube.com/live/aqBtbqUeIA0?feature=share&t=3157" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
       <a href="assets/files/slam_bs_2021.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
