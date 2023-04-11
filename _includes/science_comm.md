@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Talks & Presentations</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Science Communication</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -61,8 +61,6 @@
   </div>
 </div>
 </li>
-  
-<br>
 
 <li>
 <div class="pub-row">
