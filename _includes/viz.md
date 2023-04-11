@@ -7,7 +7,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/h2_chromatography.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/h2_chromatography.PNG" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Green Hydrogen</abbr>
   </div>
 
@@ -26,7 +26,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/dsm_taxonomy.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/dsm_taxonomy.PNG" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Demand Side Management</abbr>
   </div>
 
