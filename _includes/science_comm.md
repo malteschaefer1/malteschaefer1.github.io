@@ -17,6 +17,7 @@
     <div class="periodical"><em>Braunschweig, 2022.</em></div>
     <div class="links">
       <a href="assets/files/50shades.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://www.youtube.com/live/93iLfBPBOCE?feature=share" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
     </div>
   </div>
 </div>
