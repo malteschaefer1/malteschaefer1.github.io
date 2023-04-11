@@ -12,7 +12,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">[German] Nachhaltigkeit in der Produktentwicklung</a></div>
+    <div class="title">[German] Nachhaltigkeit in der Produktentwicklung</div>
     <div class="author">Guest lecture in quality management master class at BU Wuppertal</div>
     <div class="periodical"><em>Wuppertal, 2018.</em></div>
     <div class="links">
@@ -31,7 +31,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">[German] Ecodesign & Lifecycle Assessment</a></div>
+    <div class="title">[German] Ecodesign & Lifecycle Assessment</div>
     <div class="author">Guest lecture in engineering design master class at RWTH Aachen University</div>
     <div class="periodical"><em>Aachen, 2017.</em></div>
     <div class="links">
