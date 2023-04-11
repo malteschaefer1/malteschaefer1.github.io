@@ -1,6 +1,6 @@
 # Imprint
 
-I am responsible for the content of this website:
+Responsible for the content of this website:
 
 Malte Schäfer  
 Allerstraße 4  
@@ -8,4 +8,4 @@ Allerstraße 4
 Germany
 
 malte.schaefer@tu-braunschweig.de  
-+49 173 7581195
++49 173 75811[nine five]
