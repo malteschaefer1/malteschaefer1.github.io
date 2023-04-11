@@ -12,7 +12,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">The Sectoral Decarbonization Approach (SDA) by the Science Based Targets Initiative (SBTi)</a></div>
+    <div class="title">The Sectoral Decarbonization Approach (SDA) by the Science Based Targets Initiative (SBTi)</div>
     <div class="author">Lab internal presentation</div>
     <div class="periodical"><em>Braunschweig, 2021.</em></div>
     <div class="links">
@@ -31,7 +31,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Assessing the environmental impact of electricity from renewable energy sources (RES)</a></div>
+    <div class="title">Assessing the environmental impact of electricity from renewable energy sources (RES)</div>
     <div class="author">Project presentation (<a href="https://www.tu-braunschweig.de/elenia/forschung/flexess">flexess</a>)</div>
     <div class="periodical"><em>Braunschweig, 2020.</em></div>
     <div class="links">
@@ -50,7 +50,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">[German] Runder Tisch Life Cycle Assessment im Leichtbau - Bericht aus der AG Fertigung</a></div>
+    <div class="title">[German] Runder Tisch Life Cycle Assessment im Leichtbau - Bericht aus der AG Fertigung</div>
     <div class="author">LCA expert survey evaluation, report to round table (<a href="https://plattform-forel.de/">FOREL</a>)</div></div>
     <div class="periodical"><em>Online, 2020.</em></div>
     <div class="links">
