@@ -12,7 +12,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">European Hydrogen Chromatography</a></div>
+    <div class="title">European Hydrogen Chromatography</div>
     <div class="author">Flowchart based on the <a href="https://energy.ec.europa.eu/publications/delegated-regulation-union-methodology-rfnbos_en">EU Delegated Act on Renewable Hydrogen</a></div>
     <div class="periodical"><em>Online, 2023.</em></div>
     <div class="links">
@@ -31,7 +31,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">A taxonomy for Demand Side Management</a></div>
+    <div class="title">A taxonomy for Demand Side Management</div>
     <div class="author">Based on the publication by (<a href="https://www.sciencedirect.com/science/article/abs/pii/S1364032117308481">Meyabadi & Deihimi</a>), 2017</div>
     <div class="periodical"><em>Online, 2020.</em></div>
     <div class="links">
