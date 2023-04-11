@@ -29,4 +29,4 @@ I am a Ph.D. student at TU Braunschweig, <a href="https://www.tu-braunschweig.de
 
 {% include_relative _includes/lobby.md %}
 
-{% include_relative _includes/imprint.md %}
+{% include_relative _includes/imprint.html %}
