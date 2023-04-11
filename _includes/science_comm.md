@@ -61,25 +61,6 @@
   </div>
 </div>
 </li>
-
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/slam_bs_2018.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Science Funding</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">[German] Forschen unter widrigen Umständen - Galileo, die katholische Kirche und die deutsche Forschungsförderung</div>
-    <div class="author">Science slam at <a href="https://www.hausderwissenschaft.org/projektvielfalt/science-slam.html">Haus der Wissenschaft</a></div></div>
-    <div class="periodical"><em>Braunschweig, 2018.</em></div>
-    <div class="links">
-      <a href="assets/files/slam_bs_2018.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    </div>
-  </div>
-</div>
-</li>
   
 <br>
 
