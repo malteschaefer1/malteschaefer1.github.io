@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Teaching</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -7,16 +7,16 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/sbti_sda.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Emission targets</abbr>
+    <img src="assets/img/ed_lca_kl2.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Ecodesign/LCA</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">The Sectoral Decarbonization Approach (SDA) by the Science Based Targets Initiative (SBTi)</a></div>
-    <div class="author">Lab internal presentation</div>
-    <div class="periodical"><em>Braunschweig, 2021.</em></div>
+    <div class="title">[German] Ecodesign & Lifecycle Assessment</a></div>
+    <div class="author">Guest lecture in engineering design master class at RWTH Aachen University</div>
+    <div class="periodical"><em>Aachen, 2017.</em></div>
     <div class="links">
-      <a href="assets/files/sbti_sda.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="assets/files/ed_lca_kl2.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
@@ -26,35 +26,16 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/ei_res.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Emission accounting</abbr>
+    <img src="assets/img/lecture_wuppertal.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Sustainable Product Development</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Assessing the environmental impact of electricity from renewable energy sources (RES)</a></div>
-    <div class="author">Project presentation (<a href="https://www.tu-braunschweig.de/elenia/forschung/flexess">flexess</a>)</div>
-    <div class="periodical"><em>Braunschweig, 2020.</em></div>
+    <div class="title">[German] Nachhaltigkeit in der Produktentwicklung</a></div>
+    <div class="author">Guest lecture in quality management master class at BU Wuppertal</div>
+    <div class="periodical"><em>Wuppertal, 2018.</em></div>
     <div class="links">
-      <a href="assets/files/res_impact.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    </div>
-  </div>
-</div>
-</li>
-
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/lca_survey.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">LCA Survey</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">[German] Runder Tisch Life Cycle Assessment im Leichtbau - Bericht aus der AG Fertigung</a></div>
-    <div class="author">LCA expert survey evaluation, report to round table</div>
-    <div class="periodical"><em>Online, 2020.</em></div>
-    <div class="links">
-      <a href="assets/files/lca_expert_survey.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="assets/files/lecture_wuppertal.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
