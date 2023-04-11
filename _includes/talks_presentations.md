@@ -51,7 +51,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">[German] Runder Tisch Life Cycle Assessment im Leichtbau - Bericht aus der AG Fertigung</a></div>
-    <div class="author">LCA expert survey evaluation, report to round table (<a href="hhttps://plattform-forel.de/">FOREL</a>)</div></div>
+    <div class="author">LCA expert survey evaluation, report to round table (<a href="https://plattform-forel.de/">FOREL</a>)</div></div>
     <div class="periodical"><em>Online, 2020.</em></div>
     <div class="links">
       <a href="assets/files/lca_expert_survey.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
