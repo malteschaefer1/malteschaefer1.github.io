@@ -8,13 +8,13 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/em_conf_fig.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Emerging Materials</abbr>
+    <abbr class="badge">Emission targets</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://link.springer.com/chapter/10.1007/978-3-662-62924-6_8">Methodology for Assessing the Environmental Impact of Emerging Materials</a></div>
-    <div class="author"><strong>Malte Schäfer</strong>, Martina Gottschling, Felipe Cerdas, Christoph Herrmann</div>
-    <div class="periodical"><em>Springer/Technologies for economic and functional lightweight design, 2021.</em></div>
+    <div class="title">The Sectoral Decarbonization Approach (SDA) by the Science Based Targets Initiative (SBTi)</a></div>
+    <div class="author">Lab internal presentation</div>
+    <div class="periodical"><em>Braunschweig, 2021.</em></div>
     <div class="links">
       <a href="https://link.springer.com/content/pdf/10.1007/978-3-662-62924-6_8.pdf?pdf=inline%20link" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <strong><i style="color:#A8DADC">Conference paper</i></strong>
