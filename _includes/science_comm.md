@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Talks & Presentations</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -7,17 +7,16 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/em_conf_fig.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Emerging Materials</abbr>
+    <img src="assets/img/50chades.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Renewable Energy</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://link.springer.com/chapter/10.1007/978-3-662-62924-6_8">Methodology for Assessing the Environmental Impact of Emerging Materials</a></div>
-    <div class="author"><strong>Malte Schäfer</strong>, Martina Gottschling, Felipe Cerdas, Christoph Herrmann</div>
-    <div class="periodical"><em>Springer/Technologies for economic and functional lightweight design, 2021.</em></div>
+    <div class="title">[German] 50 Shades of Green - Wie grün ist Strom?</a></div>
+    <div class="author">Public lecture organized by the <a href="https://www.tu-braunschweig.de/nachhaltigkeit/tu-for-future">TU for Future</a> initiative</div>
+    <div class="periodical"><em>Braunschweig, 2022.</em></div>
     <div class="links">
-      <a href="https://link.springer.com/content/pdf/10.1007/978-3-662-62924-6_8.pdf?pdf=inline%20link" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong><i style="color:#A8DADC">Conference paper</i></strong>
+      <a href="assets/files/50shades.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
@@ -27,18 +26,16 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/ed_review_ga.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Ecodesign</abbr>
+    <img src="assets/img/ei_res.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Emission accounting</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://www.mdpi.com/2071-1050/13/1/315">Ecodesign—A Review of Reviews</a></div>
-    <div class="author"><strong>Malte Schäfer</strong>, Manuel Löwer</div>
-    <div class="periodical"><em>MDPI/Sustainability, 2020.</em></div>
+    <div class="title">Assessing the environmental impact of electricity from renewable energy sources (RES)</a></div>
+    <div class="author">Project presentation (<a href="https://www.tu-braunschweig.de/elenia/forschung/flexess">flexess</a>)</div>
+    <div class="periodical"><em>Braunschweig, 2020.</em></div>
     <div class="links">
-      <a href="https://www.mdpi.com/2071-1050/13/1/315/pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://www.mdpi.com/2071-1050/13/1/315/s1" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">SI</a>
-      <strong><i style="color:#A8DADC">Journal article</i></strong>
+      <a href="assets/files/res_impact.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
@@ -48,17 +45,16 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/em_book_fig.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Emerging Materials</abbr>
+    <img src="assets/img/lca_survey.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">LCA Survey</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://link.springer.com/chapter/10.1007/978-3-030-50519-6_7">Integrating Environmental Assessment of Emerging Materials into the Material Selection Process</a></div>
-    <div class="author"><strong>Malte Schäfer</strong>, Felipe Cerdas, Christoph Herrmann</div>
-    <div class="periodical"><em>Springer/Progress in Life Cycle Assessment 2019, 2020.</em></div>
+    <div class="title">[German] Runder Tisch Life Cycle Assessment im Leichtbau - Bericht aus der AG Fertigung</a></div>
+    <div class="author">LCA expert survey evaluation, report to round table (<a href="https://plattform-forel.de/">FOREL</a>)</div></div>
+    <div class="periodical"><em>Online, 2020.</em></div>
     <div class="links">
-      <a href="https://link.springer.com/content/pdf/10.1007/978-3-030-50519-6_7.pdf?pdf=inline%20link" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong><i style="color:#A8DADC">Book chapter</i></strong>
+      <a href="assets/files/lca_expert_survey.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
