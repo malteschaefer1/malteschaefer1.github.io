@@ -52,7 +52,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">[German] Ein Kuchen aus Ökostrom</div>
-    <div class="author">Science slam at <a href="https://www.hausderwissenschaft.org/projektvielfalt/science-slam.html">Haus der Wissenschaft</a></div></div>
+    <div class="author">Science slam at <a href="https://www.hausderwissenschaft.org/projektvielfalt/science-slam.html">Haus der Wissenschaft</a></div>
     <div class="periodical"><em>Braunschweig, 2021.</em></div>
     <div class="links">
       <a href="assets/files/slam_bs_2021.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
