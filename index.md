@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at TU Braunschweig.
+I am a Ph.D. student at TU Braunschweig, <a href="https://www.tu-braunschweig.de/en/iwf/nplce">Chair of Sustainable Manufacturing and Life Cycle Engineering</a>. Sometimes I also work as a <a href="https://www.malteschaefer.com/">coach</a>.
 
 ## Research Interests
 
