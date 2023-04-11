@@ -1,23 +1,23 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Lobbying</h2>
 
 <div class="publications">
 <ol class="bibliography">
 
+  
 <li>
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/em_conf_fig.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Emerging Materials</abbr>
+    <img src="assets/img/oekostrom_nlbl.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Renewable Energy</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://link.springer.com/chapter/10.1007/978-3-662-62924-6_8">Methodology for Assessing the Environmental Impact of Emerging Materials</a></div>
-    <div class="author"><strong>Malte Schäfer</strong>, Martina Gottschling, Felipe Cerdas, Christoph Herrmann</div>
-    <div class="periodical"><em>Springer/Technologies for economic and functional lightweight design, 2021.</em></div>
+    <div class="title">[German] “Ökostrom”bezug durch das Land Niedersachsen - Problem und Lösung</a></div>
+    <div class="author">Lobbying for greener electricity procurement at universities in Lower-Saxony</div>
+    <div class="periodical"><em>Braunschweig, 2022.</em></div>
     <div class="links">
-      <a href="https://link.springer.com/content/pdf/10.1007/978-3-662-62924-6_8.pdf?pdf=inline%20link" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong><i style="color:#A8DADC">Conference paper</i></strong>
+      <a href="assets/files/oekostrom_nlbl.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
@@ -27,38 +27,16 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/ed_review_ga.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Ecodesign</abbr>
+    <img src="assets/img/iea_letter.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Open Data</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://www.mdpi.com/2071-1050/13/1/315">Ecodesign—A Review of Reviews</a></div>
-    <div class="author"><strong>Malte Schäfer</strong>, Manuel Löwer</div>
-    <div class="periodical"><em>MDPI/Sustainability, 2020.</em></div>
+    <div class="title">Open letter to the International Energy Agency and its member countries: Please remove paywalls from global energy data and add appropriate open licenses</a></div>
+    <div class="author">Open letter (<a href="https://forum.openmod.org/t/open-letter-to-iea-and-member-countries-requesting-open-data/2949">Background</a>, <a href="https://www.theguardian.com/environment/2021/dec/10/academics-urge-iea-to-give-free-access-to-national-energy-data">Press Coverage</a>)</div>
+    <div class="periodical"><em>Online, 2021.</em></div>
     <div class="links">
-      <a href="https://www.mdpi.com/2071-1050/13/1/315/pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://www.mdpi.com/2071-1050/13/1/315/s1" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">SI</a>
-      <strong><i style="color:#A8DADC">Journal article</i></strong>
-    </div>
-  </div>
-</div>
-</li>
-
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/em_book_fig.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Emerging Materials</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://link.springer.com/chapter/10.1007/978-3-030-50519-6_7">Integrating Environmental Assessment of Emerging Materials into the Material Selection Process</a></div>
-    <div class="author"><strong>Malte Schäfer</strong>, Felipe Cerdas, Christoph Herrmann</div>
-    <div class="periodical"><em>Springer/Progress in Life Cycle Assessment 2019, 2020.</em></div>
-    <div class="links">
-      <a href="https://link.springer.com/content/pdf/10.1007/978-3-030-50519-6_7.pdf?pdf=inline%20link" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong><i style="color:#A8DADC">Book chapter</i></strong>
+      <a href="assets/files/iea_letter.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
