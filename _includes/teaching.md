@@ -7,7 +7,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/lecture_wuppertal.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/lecture_wuppertal.PNG" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Sustainable Prod. Dvl.</abbr>
   </div>
 
@@ -26,7 +26,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/ed_lca_kl2.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/ed_lca_kl2.PNG" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Ecodesign/LCA</abbr>
   </div>
 
