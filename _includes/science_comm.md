@@ -7,7 +7,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/50chades.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/50shades.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Renewable Energy</abbr>
   </div>
 
@@ -27,16 +27,16 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/ei_res.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Emission accounting</abbr>
+    <img src="assets/img/wisskomm_phaeno.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Renewable Energy</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Assessing the environmental impact of electricity from renewable energy sources (RES)</a></div>
-    <div class="author">Project presentation (<a href="https://www.tu-braunschweig.de/elenia/forschung/flexess">flexess</a>)</div>
-    <div class="periodical"><em>Braunschweig, 2020.</em></div>
+    <div class="title">[German] Ökostrom</a></div>
+    <div class="author"><a href="https://magazin.tu-braunschweig.de/event/oekostrom-ist-nicht-gleich-oekostrom/">Meet the scientist</a> - exhibition at <a href="https://www.phaeno.de/veranstaltungen/wissenschaft-und-technik/">phaeno</a></div>
+    <div class="periodical"><em>Wolfsburg, 2022.</em></div>
     <div class="links">
-      <a href="assets/files/res_impact.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="assets/files/wisskomm_phaeno.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
@@ -46,16 +46,38 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/lca_survey.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">LCA Survey</abbr>
+    <img src="assets/img/slam_bs_2021.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Renewable Energy</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">[German] Runder Tisch Life Cycle Assessment im Leichtbau - Bericht aus der AG Fertigung</a></div>
-    <div class="author">LCA expert survey evaluation, report to round table (<a href="https://plattform-forel.de/">FOREL</a>)</div></div>
-    <div class="periodical"><em>Online, 2020.</em></div>
+    <div class="title">[German] Ein Kuchen aus Ökostrom</a></div>
+    <div class="author">Science slam at <a href="https://www.hausderwissenschaft.org/projektvielfalt/science-slam.html">Haus der Wissenschaft</a></div></div>
+    <div class="periodical"><em>Braunschweig, 2021.</em></div>
     <div class="links">
-      <a href="assets/files/lca_expert_survey.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="assets/files/slam_bs_2021.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://www.youtube.com/live/aqBtbqUeIA0?feature=share&t=3158" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
+    </div>
+  </div>
+</div>
+</li>
+  
+<br>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/slam_bs_2018.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Science Funding</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">[German] Forschen unter widrigen Umständen - Galileo, die katholische Kirche und die deutsche Forschungsförderung</a></div>
+    <div class="author">Science slam at <a href="https://www.hausderwissenschaft.org/projektvielfalt/science-slam.html">Haus der Wissenschaft</a></div></div>
+    <div class="periodical"><em>Braunschweig, 2018.</em></div>
+    <div class="links">
+      <a href="assets/files/slam_bs_2018.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
