@@ -12,7 +12,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">[German] 50 Shades of Green - Wie grün ist Strom?</a></div>
+    <div class="title">[German] 50 Shades of Green - Wie grün ist Strom?</div>
     <div class="author">Public lecture organized by the <a href="https://www.tu-braunschweig.de/nachhaltigkeit/tu-for-future">TU for Future</a> initiative</div>
     <div class="periodical"><em>Braunschweig, 2022.</em></div>
     <div class="links">
@@ -32,7 +32,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">[German] Ökostrom</a></div>
+    <div class="title">[German] Ökostrom</div>
     <div class="author"><a href="https://magazin.tu-braunschweig.de/event/oekostrom-ist-nicht-gleich-oekostrom/">Meet the scientist</a> - exhibition at <a href="https://www.phaeno.de/veranstaltungen/wissenschaft-und-technik/">phaeno</a></div>
     <div class="periodical"><em>Wolfsburg, 2022.</em></div>
     <div class="links">
@@ -51,7 +51,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">[German] Ein Kuchen aus Ökostrom</a></div>
+    <div class="title">[German] Ein Kuchen aus Ökostrom</div>
     <div class="author">Science slam at <a href="https://www.hausderwissenschaft.org/projektvielfalt/science-slam.html">Haus der Wissenschaft</a></div></div>
     <div class="periodical"><em>Braunschweig, 2021.</em></div>
     <div class="links">
@@ -71,7 +71,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">[German] Forschen unter widrigen Umständen - Galileo, die katholische Kirche und die deutsche Forschungsförderung</a></div>
+    <div class="title">[German] Forschen unter widrigen Umständen - Galileo, die katholische Kirche und die deutsche Forschungsförderung</div>
     <div class="author">Science slam at <a href="https://www.hausderwissenschaft.org/projektvielfalt/science-slam.html">Haus der Wissenschaft</a></div></div>
     <div class="periodical"><em>Braunschweig, 2018.</em></div>
     <div class="links">
