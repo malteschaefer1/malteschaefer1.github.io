@@ -7,8 +7,46 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/openmod_wien_2023.PNG" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Scope 2 emissions</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Improving consumer scope 2 emission accounting practices and decision making</div>
+    <div class="author">Poster presentation at the <a href="https://forum.openmod.org/t/registrations-now-open-for-vienna-laxenburg-workshop-in-march-2023/3606/5">2023 Openmod Workshop</a> in Laxenburg/Vienna</div>
+    <div class="periodical"><em>Laxenburg, 2023.</em></div>
+    <div class="links">
+      <a href="assets/files/openmod_wien_2023.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+  
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/sesaau_2022.PNG" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Emission Accounting</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Life Cycle Oriented Decision Support for Companies to Reduce Electricity-related Greenhouse Emissions</div>
+    <div class="author">Presentation at <a href="https://smartenergysystems.eu/2022-2/">SESAAU 2022</a></div>
+    <div class="periodical"><em>Aalborg, 2022.</em></div>
+    <div class="links">
+      <a href="assets/files/sesaau_2022.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+  
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/sbti_sda.PNG" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Emission targets</abbr>
+    <abbr class="badge">Emission Targets</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
