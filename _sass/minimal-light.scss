@@ -1,12 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,500;0,600;1,500;1,600&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
 
 body {
-  background-color: #1D3557;
+  background-color: #fff;
   padding:0px;
-  font: 18.0px/1.5 Lora, serif; 
-  color:#A8DADC;
+  font: 16.0px/1.5 Crimson Pro, serif; 
+  color:#595959;
   font-weight:400;
   margin:0
 }
@@ -116,9 +115,6 @@ body {
 .github span{
   background-color:#000}
 
-.researchgate span{
-  background-color:#000}
-
 email {
     font-size: 14px;
     font-family: "Ubuntu Mono";
@@ -151,13 +147,10 @@ email {
 .icon-button .icon-linkedin{
   color:#0077B5}
 
-.icon-button .icon-researchgate{
-  color:#0077B5}
-
-.icon-button:hover .icon-twitter,.icon-button:hover .icon-researchgate.icon-button:hover .icon-facebook,.icon-button:hover .icon-github,.icon-button:hover .icon-linkedin{color:white}
+.icon-button:hover .icon-twitter,.icon-button:hover .icon-facebook,.icon-button:hover .icon-github,.icon-button:hover .icon-linkedin{color:white}
 
 autocolor{
-  color:#1D3557;
+  color:#595959;
 }
 
 lightonly {
@@ -179,7 +172,7 @@ papertitle {
 
 @media (prefers-color-scheme: dark) {
     body {
-        background-color: #1D3557;
+        background-color: #20212b;
         color: #dadbdf;
     }
 
