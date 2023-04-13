@@ -2,10 +2,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
 
+:root {
+  --font-size-increment: 2px;
+}
+
 body {
   background-color: #1D3557;
   padding:0px;
-  font: 18.0px/1.5 Lora, serif; 
+  font: calc(18.0px + var(--font-size-increment))/1.5 Lora, serif; 
   color:#A8DADC;
   font-weight:400;
   margin:0
@@ -23,7 +27,7 @@ body {
   color:#043361!important;
   border-radius:100%;
   text-align:center;
-  font-size:1.15rem;
+  font-size: calc(1.15rem + var(--font-size-increment));
   line-height:2.5rem;
   margin-right:1rem}
 
@@ -73,7 +77,7 @@ body {
   border-radius:3.6rem;
   cursor:pointer;
   display:inline-block;
-  font-size:2.0rem;
+  font-size:calc(2.0rem  + var(--font-size-increment));
   height:3.6rem;
   line-height:3.6rem;
   margin:0 5px;
@@ -257,7 +261,7 @@ h2 {
   color:#043361;
   font-weight: 500;
   margin:2px 0px 15px;
-  font-size: 157%;
+  font-size: calc(157%  + var(--font-size-increment));
 }
 
 @media (prefers-color-scheme: dark) {
@@ -279,7 +283,7 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size:28px;
+  font-size:calc(28px  + var(--font-size-increment));
 }
 
 a {
@@ -298,7 +302,7 @@ a:hover {
 }
 
 a small {
-  font-size:11px;
+  font-size:calc(11px  + var(--font-size-increment));
   color:#777;
   margin-top:-0.3em;
   display:block;
@@ -406,7 +410,7 @@ header li:last-child a {
 
 header ul a {
   line-height:1;
-  font-size:11px;
+  font-size:calc(11px  + var(--font-size-increment));
   color:#999;
   display:block;
   text-align:center;
@@ -439,7 +443,7 @@ header ul li + li + li {
 }
 
 header ul a strong {
-  font-size:14px;
+  font-size:calc(14px  + var(--font-size-increment));
   display:block;
   color:#222;
 }
@@ -452,7 +456,7 @@ section {
 }
 
 small {
-  font-size:11px;
+  font-size:calc(11px  + var(--font-size-increment));
 }
 
 hr {
@@ -585,7 +589,7 @@ footer {
 @media print {
   body {
     padding:0.4in;
-    font-size:12pt;
+    font-size:calc(12pt  + var(--font-size-increment));
     color:#444;
   }
 }
@@ -602,7 +606,7 @@ footer {
 }
 
 .bibref {
-  font-size: 70%;
+  font-size: calc(70%  + var(--font-size-increment));
   margin-top: 10px;
   margin-left: 0px;
   display:none;
