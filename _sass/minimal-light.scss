@@ -15,7 +15,7 @@ body {
   display: flex; 
   align-items: center;}
 
-.social-icons a{
+.social-icons a {
   display:inline-block;
   height:2.4rem;
   width:2.4rem;
@@ -25,9 +25,8 @@ body {
   text-align:center;
   font-size:1.15rem;
   line-height:2.5rem;
-  margin-right:1rem}
-
-@media (prefers-color-scheme: dark) { .social-icons a {color: #3eb7f0 !important; }}
+  margin-right:1rem
+}
 
 .social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:white;
     color:black;
@@ -48,7 +47,7 @@ body {
       }
      */
 
-@media (prefers-color-scheme: dark) {.social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:#20212b;
+.social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:#20212b;
     color:black;
     transform: scale(1.2)} 
     /*
