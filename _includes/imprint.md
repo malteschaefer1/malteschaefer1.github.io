@@ -1,7 +1,5 @@
 <h2>Imprint</h2>
 <div class="imprint">
-  I am responsible for the content of this website:<br>
-  <br>
   Malte Schäfer<br>
   Allerstraße 4<br>
   38106 Braunschweig<br>
