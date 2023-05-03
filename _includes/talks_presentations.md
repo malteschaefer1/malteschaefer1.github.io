@@ -16,7 +16,7 @@
     <div class="author">Presentation at a workshop on scope 2 emissions at DTU in Lyngby/Copenhagen</div>
     <div class="periodical"><em>Lyngby, 2023.</em></div>
     <div class="links">
-      <a href="assets/files/scop2_dtu.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="assets/files/scope2_dtu.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
