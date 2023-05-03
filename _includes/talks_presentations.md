@@ -7,6 +7,26 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/scope2_dtu.PNG" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Scope 2 emissions</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Quantifying additionality of renewable energy supply options – decision making support for electricity consumers</div>
+    <div class="author">Presentation at a workshop on scope 2 emissions at DTU in Lyngby/Copenhagen</div>
+    <div class="periodical"><em>Lyngby, 2023.</em></div>
+    <div class="links">
+      <a href="assets/files/scop2_dtu.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+  
+  
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/openmod_wien_2023.PNG" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Scope 2 emissions</abbr>
   </div>
