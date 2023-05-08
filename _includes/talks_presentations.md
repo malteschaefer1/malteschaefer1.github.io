@@ -14,7 +14,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Quantifying additionality for renewable energy supply options</div>
     <div class="author">Poster presentation at the <a href="https://gee.de/31-student-chapter-am-04-mai-2023-call-for-papers-and-posters/">31st GEE Student Chapter</a></div>
-    <div class="periodical"><em>dresden (DE), 2023.</em></div>
+    <div class="periodical"><em>Dresden (DE), 2023.</em></div>
     <div class="links">
       <a href="assets/files/poster_gee.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
