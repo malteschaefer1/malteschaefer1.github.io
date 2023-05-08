@@ -7,7 +7,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/scope2_dtu.PNG" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/poster_gee.PNG" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Scope 2 emissions</abbr>
   </div>
 
