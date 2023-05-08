@@ -14,9 +14,10 @@ I am a Ph.D. student at TU Braunschweig, <a href="https://www.tu-braunschweig.de
 
 ## News
 
-- **[Apr. 2023]** Presented research in progress on additionality at a workshop on scope 2 emission accounting at DTU in Lyngby/Copenhagen, Denmark.
-- **[Mar. 2023]** Presented a poster at the <a href="https://forum.openmod.org/t/registrations-now-open-for-vienna-laxenburg-workshop-in-march-2023/3606/5">OpenMod Workshop in Laxenburg/Vienna, Austria</a>.
-- **[Sep. 2022]** Presented my research at the <a href="https://smartenergysystems.eu/2022-2/">8th International Conference on Smart Energy Systems in Aalborg, Denmark</a>.
+- **[May 2023]** Presented a poster on additionality at the <a href="https://gee.de/31-student-chapter-am-04-mai-2023-call-for-papers-and-posters/">31st GEE Student Chapter in Dresden</a>.
+- **[Apr 2023]** Presented research in progress on additionality at a workshop on scope 2 emission accounting at DTU in Lyngby/Copenhagen, Denmark.
+- **[Mar 2023]** Presented a poster at the <a href="https://forum.openmod.org/t/registrations-now-open-for-vienna-laxenburg-workshop-in-march-2023/3606/5">OpenMod Workshop in Laxenburg/Vienna, Austria</a>.
+- **[Sep 2022]** Presented my research at the <a href="https://smartenergysystems.eu/2022-2/">8th International Conference on Smart Energy Systems in Aalborg, Denmark</a>.
 
 {% include_relative _includes/publications.md %}
 
