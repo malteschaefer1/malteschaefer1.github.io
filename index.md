@@ -13,7 +13,7 @@ I am a Ph.D. student at TU Braunschweig, <a href="https://www.tu-braunschweig.de
 - **Electricity-related (scope 2) emissions**
 
 ## News
-- **[9. Nov 2023]** I will be presenting some of my research on grid emission factors at the  <a href="https://lca-forum.ch/forum?tx_news_pi1%5BactbackPid%5D=1&tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=84&cHash=9f2fc0a4f6f64f0d98e093230d4dd9a7">85th LCA Discussion Forum</a> in Zurich, Switzerland.
+- **[Nov 2023]** I presented some of my research on grid emission factors at the  <a href="https://lca-forum.ch/forum?tx_news_pi1%5BactbackPid%5D=1&tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=84&cHash=9f2fc0a4f6f64f0d98e093230d4dd9a7">85th LCA Discussion Forum</a> in Zurich, Switzerland.
 - **[Jun-Jul 2023]** Research stay at <a href="https://mines-paristech.eu/Research-valorization/Fields-of-Research/Energy-and-processes/O.I.E.-Centre-Observation-Impacts-Energy/">O.I.E. at MINES ParisTech</a>   in the group of <a href="https://www.researchgate.net/profile/Paula-Perez-Lopez-2">Paula Pérez-López</a> in Sophia Antipolis, France.
 - **[Jun 2023]** Took part in the <a href="https://www.ecosd.fr/wp-content/uploads/2023/04/PROGRAM_Advanced_LCA_Methodologies_June2023_vf.pdf">Advanced LCA Summer School</a> by O.I.E. at MINES ParisTech and the EcoSD Network in Sophia Antipolis, France.
 - **[May 2023]** Presented a poster on additionality at the <a href="https://gee.de/31-student-chapter-am-04-mai-2023-call-for-papers-and-posters/">31st GEE Student Chapter in Dresden</a>.
