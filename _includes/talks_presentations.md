@@ -7,6 +7,25 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/zurich.PNG" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Scope 2 emissions</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Methodological aspects of calculating a national grid emission factor</div>
+    <div class="author">Presentation at the <a href="https://lca-forum.ch/forum?tx_news_pi1%5BactbackPid%5D=1&tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=84&cHash=9f2fc0a4f6f64f0d98e093230d4dd9a7">85th LCA Discussion Forum</a></div>
+    <div class="periodical"><em>Zurich (CH), 2023.</em></div>
+    <div class="links">
+      <a href="assets/files/zurich.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/poster_gee.PNG" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Scope 2 emissions</abbr>
   </div>
@@ -21,7 +40,6 @@
   </div>
 </div>
 </li>
-  
   
   
 <li>
