@@ -7,14 +7,35 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/em_conf_fig.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/doughnut.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Absolute sustainability</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="http://dx.doi.org/10.1016/j.jclepro.2024.141447">Measuring the Doughnut: A good life for all is possible within planetary boundaries</a></div>
+    <div class="author">Hauke Schlesier, <strong>Malte Schäfer</strong>, Harald Desing</div>
+    <div class="periodical"><em>Elsevier/Journal of Cleaner Production, 2024.</em></div>
+    <div class="links">
+      <a href="https://www.sciencedirect.com/science/article/pii/S0959652624008953/pdfft?md5=291833e4bbe4d62a46105088a6274aaf&pid=1-s2.0-S0959652624008953-main.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://ars.els-cdn.com/content/image/1-s2.0-S0959652624008953-mmc1.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">SI</a>
+      <strong><i style="color:#A8DADC">Journal article</i></strong>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/carbonmgmt.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Scope 2 emissions</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="http://dx.doi.org/10.1080/17583004.2024.2324813">Scope 2 and market-based accounting - workshop report</a></div>
     <div class="author">Matthew Brander, Jesse Backstrom, Michael Gillenwater, Lissy Langer, Olivier Corradi, <strong>Malte Schäfer</strong>, Jon Sigvert, Ciril Wakounig & Anders Bjørn</div>
-    <div class="periodical"><em>T&F/Carbon Management.</em></div>
+    <div class="periodical"><em>T&F/Carbon Management, 2024.</em></div>
     <div class="links">
       <a href="https://www.tandfonline.com/doi/epdf/10.1080/17583004.2024.2324813?needAccess=true" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <strong><i style="color:#A8DADC">Rapid communication</i></strong>
