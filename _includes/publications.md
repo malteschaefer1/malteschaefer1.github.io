@@ -7,8 +7,31 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/doughnut.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Absolute sustainability</abbr>
+    <img src="assets/img/gridEF.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Scope 2 emissions</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="http://dx.doi.org/10.1039/D3EE04394K">Towards standardized grid emission factors: methodological insights and best practices</a></div>
+    <div class="author"><strong>Malte Schäfer</strong>, Felipe Cerdas, Christoph Herrmann</div>
+    <div class="periodical"><em>RSC/Energy & Environmental Science, 2024.</em></div>
+    <div class="links">
+      <a href="https://pubs.rsc.org/en/content/articlepdf/2024/ee/d3ee04394k" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://www.rsc.org/suppdata/d3/ee/d3ee04394k/d3ee04394k1.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">SI</a>
+      <a href="https://doi.org/10.24355/dbbs.084-202309131139-0" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://doi.org/10.24355/dbbs.084-202309111514-0" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Data</a>
+      <strong><i style="color:#A8DADC">Journal article</i></strong>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/doughnut.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Abs. sustainability</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
