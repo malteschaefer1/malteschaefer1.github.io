@@ -9,7 +9,7 @@ I am a researcher at Bergische Universität Wuppertal, <a href="https://psq.uni-
 ## Research Interests
 
 - **Life Cycle Assessment (LCA)**
-- **Corporate greenhouse gas accounting, reporting & targeting**
+- **Corporate greenhouse gas accounting**
 - **Electricity-related (scope 2) emissions**
 
 ## News
