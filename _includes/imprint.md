@@ -1,7 +1,7 @@
 <h2>Imprint</h2>
 <div class="imprint">
   Malte Schäfer<br>
-  Allerstraße 4<br>
-  38106 Braunschweig<br>
+  Am Engelnberg 32<br>
+  42107 Wuppertal<br>
   Germany<br>
 </div>
