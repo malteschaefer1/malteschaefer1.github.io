@@ -7,6 +7,27 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/lca_biogas.PNG" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">LCA & Renewables</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="http://dx.doi.org/10.1088/2515-7620/ad7dd9">Life cycle assessment of electricity from wind, photovoltaic and biogas from maize in combination with area-specific energy yields – a case study for Germany</a></div>
+    <div class="author">Jonas Böhm, Fabian Michael Holzheid, <strong>Malte Schäfer</strong></div>
+    <div class="periodical"><em>IOP/Environmental Research Communications, 2024.</em></div>
+    <div class="links">
+      <a href="https://iopscience.iop.org/article/10.1088/2515-7620/ad7dd9/pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://content.cld.iop.org/journals/2515-7620/6/10/105022/revision2/ercad7dd9supp1.docx?Expires=1734508816&Signature=YD3uED-zm3eTFF7xsM66Ek5OTsrUy3cGo77HIjWR-n2DNtYSfS02vD6~LesVbqCbhYJo~kpO7quLjyXQJHiCmtohyNA~I82N6cyhOu4JKo3kpf5C9-NLPhwufJN0sEwPK--k-H-rdiZs9pjGgn~Fq7wuGTD0XEfe6T-ehUPt69-B01Jim-mOMbULc7U6jO0mAuz4jurt6j-jkjNbpJklvEHIzUKH3VtXD9UYJnRxiZh5xJDEdD7SKiz2EJvxE1Ngh4554w8Dava7ruyD~9LhMQvTd~ifFxoDgctQtpKgb-nMzuDu03pv85bXSHJ73YGpZB~PJsN7G6FVsYp1rEzR0A__&Key-Pair-Id=KL1D8TIY3N7T8" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">SI</a>
+      <strong><i style="color:#A8DADC">Journal article</i></strong>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/gridEF.PNG" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Scope 2 emissions</abbr>
   </div>
