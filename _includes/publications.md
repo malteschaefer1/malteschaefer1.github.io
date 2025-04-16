@@ -7,6 +7,27 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/identify_s2.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Scope 2 emissions</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://doi.org/10.1080/17583004.2025.2473910">Identifying options for additionality tests in the context of scope 2 market-based accounting</a></div>
+    <div class="author"><strong>Malte Schäfer</strong>, Caroline Herlev Gebara, Anders Bjørn & Matthew Brander</div>
+    <div class="periodical"><em>T&F/Carbon Management, 2025.</em></div>
+    <div class="links">
+      <a href="https://www.tandfonline.com/doi/epdf/10.1080/17583004.2025.2473910?needAccess=true" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://www.tandfonline.com/action/downloadTable?id=t0002&doi=10.1080%2F17583004.2025.2473910&downloadType=CSV" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">SI</a>
+      <strong><i style="color:#A8DADC">Journal article</i></strong>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/lca_biogas.PNG" class="teaser img-fluid z-depth-1">
     <abbr class="badge">LCA & Renewables</abbr>
   </div>
