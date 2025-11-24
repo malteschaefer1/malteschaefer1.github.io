@@ -22,27 +22,39 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    // Active section highlighting for nav
+    // Active section highlighting for nav (stable)
     const navLinks = Array.from(document.querySelectorAll('.site-nav a[href^="#"]'));
     const sections = navLinks
         .map(link => document.querySelector(link.getAttribute('href')))
         .filter(Boolean);
 
-    if ('IntersectionObserver' in window && sections.length) {
-        const observer = new IntersectionObserver((entries) => {
-            entries.forEach(entry => {
-                if (entry.isIntersecting) {
-                    const id = entry.target.getAttribute('id');
-                    navLinks.forEach(link => {
-                        link.classList.toggle('active', link.getAttribute('href') === `#${id}`);
-                    });
-                }
-            });
-        }, {
-            rootMargin: '-40% 0px -40% 0px',
-            threshold: [0, 0.2, 0.4, 0.6]
+    const setActiveSection = () => {
+        if (!sections.length) return;
+        const viewportOffset = window.innerHeight * 0.3;
+        let currentId = sections[0].id;
+        sections.forEach(sec => {
+            const top = sec.getBoundingClientRect().top;
+            if (top <= viewportOffset) {
+                currentId = sec.id;
+            }
         });
+        navLinks.forEach(link => {
+            link.classList.toggle('active', link.getAttribute('href') === `#${currentId}`);
+        });
+    };
 
-        sections.forEach(section => observer.observe(section));
-    }
+    let ticking = false;
+    const onScroll = () => {
+        if (!ticking) {
+            window.requestAnimationFrame(() => {
+                setActiveSection();
+                ticking = false;
+            });
+            ticking = true;
+        }
+    };
+
+    window.addEventListener('scroll', onScroll, { passive: true });
+    window.addEventListener('resize', setActiveSection);
+    setActiveSection();
 });

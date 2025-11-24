@@ -354,6 +354,7 @@ ul {
   margin: 0;
   display: grid;
   gap: 1.25rem;
+  grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
 }
 
 .pub-row {
