@@ -1,8 +1,12 @@
 <h2 class="section-title">Coding</h2>
 
+{% assign excluded = site.exclude_repos | default: '' | split: ',' %}
+
 <div class="publications">
 <ol class="bibliography">
 
+{% assign repo_meta = site.github.public_repositories | where: "name", "malteschaefer1.github.io" | first %}
+{% unless excluded contains 'malteschaefer1.github.io' or repo_meta.archived %}
 <li>
 <div class="pub-row repo-card">
 
@@ -21,7 +25,10 @@
   </div>
 </div>
 </li>
+{% endunless %}
 
+{% assign repo_meta = site.github.public_repositories | where: "name", "wedding-website" | first %}
+{% unless excluded contains 'wedding-website' or repo_meta.archived %}
 <li>
 <div class="pub-row repo-card">
 
@@ -40,7 +47,10 @@
   </div>
 </div>
 </li>
+{% endunless %}
 
+{% assign repo_meta = site.github.public_repositories | where: "name", "pci" | first %}
+{% unless excluded contains 'pci' or repo_meta.archived %}
 <li>
 <div class="pub-row repo-card">
 
@@ -59,7 +69,10 @@
   </div>
 </div>
 </li>
+{% endunless %}
 
+{% assign repo_meta = site.github.public_repositories | where: "name", "webscraping_CE_EU" | first %}
+{% unless excluded contains 'webscraping_CE_EU' or repo_meta.archived %}
 <li>
 <div class="pub-row repo-card">
 
@@ -78,7 +91,10 @@
   </div>
 </div>
 </li>
+{% endunless %}
 
+{% assign repo_meta = site.github.public_repositories | where: "name", "procafocia" | first %}
+{% unless excluded contains 'procafocia' or repo_meta.archived %}
 <li>
 <div class="pub-row repo-card">
 
@@ -97,7 +113,10 @@
   </div>
 </div>
 </li>
+{% endunless %}
 
+{% assign repo_meta = site.github.public_repositories | where: "name", "slip-friction-estimate" | first %}
+{% unless excluded contains 'slip-friction-estimate' or repo_meta.archived %}
 <li>
 <div class="pub-row repo-card">
 
@@ -116,7 +135,10 @@
   </div>
 </div>
 </li>
+{% endunless %}
 
+{% assign repo_meta = site.github.public_repositories | where: "name", "Waermewahl" | first %}
+{% unless excluded contains 'Waermewahl' or repo_meta.archived %}
 <li>
 <div class="pub-row repo-card">
 
@@ -135,7 +157,10 @@
   </div>
 </div>
 </li>
+{% endunless %}
 
+{% assign repo_meta = site.github.public_repositories | where: "name", "CO2mpaRE" | first %}
+{% unless excluded contains 'CO2mpaRE' or repo_meta.archived %}
 <li>
 <div class="pub-row repo-card">
 
@@ -154,7 +179,10 @@
   </div>
 </div>
 </li>
+{% endunless %}
 
+{% assign repo_meta = site.github.public_repositories | where: "name", "bicycle_model" | first %}
+{% unless excluded contains 'bicycle_model' or repo_meta.archived %}
 <li>
 <div class="pub-row repo-card">
 
@@ -173,7 +201,10 @@
   </div>
 </div>
 </li>
+{% endunless %}
 
+{% assign repo_meta = site.github.public_repositories | where: "name", "EFmethodmadness" | first %}
+{% unless excluded contains 'EFmethodmadness' or repo_meta.archived %}
 <li>
 <div class="pub-row repo-card">
 
@@ -192,7 +223,10 @@
   </div>
 </div>
 </li>
+{% endunless %}
 
+{% assign repo_meta = site.github.public_repositories | where: "name", "environmental-impact-from-electricity-production" | first %}
+{% unless excluded contains 'environmental-impact-from-electricity-production' or repo_meta.archived %}
 <li>
 <div class="pub-row repo-card">
 
@@ -211,6 +245,7 @@
   </div>
 </div>
 </li>
+{% endunless %}
 
 </ol>
 </div>

@@ -17,6 +17,9 @@ linkedin: https://www.linkedin.com/in/malte-schaefer/
 google_scholar: https://scholar.google.com/citations?user=2XM8GI4AAAAJ&hl=de
 researchgate: https://www.researchgate.net/profile/Malte-Schaefer
 github_link: https://github.com/malteschaefer1
+exclude_repos:
+  # Add repo names to hide them from the Coding section (case-sensitive)
+   - wedding-website
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
