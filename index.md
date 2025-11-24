@@ -3,7 +3,7 @@
     <p class="eyebrow">About</p>
     <h2>About Me</h2>
   </div>
-  <p>I am a researcher at Bergische Universität Wuppertal, <a href="https://psq.uni-wuppertal.de/de/ueber-uns/team/malteschaefer/">department of product safety and quality engineering (PSQ)</a>.</p>
+  <p>I am a researcher at Bergische Universität Wuppertal, <a href="https://psq.uni-wuppertal.de/de/ueber-uns/team/malteschaefer/">department of product safety and quality engineering (PSQ)</a>, leading a small research group on circular & sustainable product systems.</p>
 </section>
 
 <section class="section" id="interests">
@@ -16,7 +16,7 @@
     <li>Ecodesign</li>
     <li>Life Cycle Assessment (LCA)</li>
     <li>Corporate GHG Accounting</li>
-    <li>Product Carbon Fottprint (PCF)</li>
+    <li>Product Carbon Footprint (PCF)</li>
     <li>Scope 2 Emissions</li>
   </ul>
 </section>

@@ -21,4 +21,28 @@ document.addEventListener('DOMContentLoaded', () => {
             localStorage.setItem('theme', newTheme);
         });
     }
+
+    // Active section highlighting for nav
+    const navLinks = Array.from(document.querySelectorAll('.site-nav a[href^="#"]'));
+    const sections = navLinks
+        .map(link => document.querySelector(link.getAttribute('href')))
+        .filter(Boolean);
+
+    if ('IntersectionObserver' in window && sections.length) {
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    const id = entry.target.getAttribute('id');
+                    navLinks.forEach(link => {
+                        link.classList.toggle('active', link.getAttribute('href') === `#${id}`);
+                    });
+                }
+            });
+        }, {
+            rootMargin: '-40% 0px -40% 0px',
+            threshold: [0, 0.2, 0.4, 0.6]
+        });
+
+        sections.forEach(section => observer.observe(section));
+    }
 });

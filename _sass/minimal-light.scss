@@ -174,11 +174,18 @@ img {
   box-shadow: inset 0 -1px 0 rgba(255, 255, 255, 0.6);
 }
 
-.site-nav a:hover {
+.site-nav a:hover,
+.site-nav a.active {
   color: var(--accent-strong);
   border-color: var(--accent);
   background: var(--surface);
   box-shadow: 0 8px 18px rgba(18, 38, 77, 0.12);
+}
+
+.site-nav a.active {
+  position: relative;
+  z-index: 1;
+  border-bottom-color: var(--surface);
 }
 
 .theme-switch {
