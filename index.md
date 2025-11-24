@@ -1,6 +1,3 @@
-layout: default
-title: Malte Schäfer
-
 <section class="section" id="about">
   <div class="section-header">
     <p class="eyebrow">About</p>
@@ -18,6 +15,9 @@ title: Malte Schäfer
     <li>Developing circular products</li>
     <li>Ecodesign</li>
     <li>Life Cycle Assessment (LCA)</li>
+    <li>Corporate GHG Accounting</li>
+    <li>Product Carbon Fottprint (PCF)</li>
+    <li>Scope 2 Emissions</li>
   </ul>
 </section>
 
