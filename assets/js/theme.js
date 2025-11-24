@@ -57,4 +57,59 @@ document.addEventListener('DOMContentLoaded', () => {
     window.addEventListener('scroll', onScroll, { passive: true });
     window.addEventListener('resize', setActiveSection);
     setActiveSection();
+
+    // Accordion behavior for sections from News onward
+    const initAccordions = () => {
+        const accordionSections = Array.from(document.querySelectorAll('.accordion-section'));
+        accordionSections.forEach(section => {
+            const list = section.querySelector('.news-list, ol.bibliography, ul, ol');
+            if (!list) return;
+
+            const items = Array.from(list.children).filter(node => node.tagName && node.tagName.toLowerCase() === 'li');
+            if (items.length <= 2) return;
+
+            const hiddenItems = items.slice(2);
+            hiddenItems.forEach(item => item.classList.add('accordion-item-hidden'));
+
+            const control = document.createElement('div');
+            control.className = 'accordion-control';
+
+            const toggle = document.createElement('button');
+            toggle.type = 'button';
+            toggle.className = 'accordion-toggle';
+            toggle.setAttribute('aria-expanded', 'false');
+
+            const heading = section.querySelector('h2');
+            const headingText = heading ? heading.textContent.trim() : 'items';
+            toggle.setAttribute('aria-label', `Show all ${headingText}`);
+
+            toggle.innerHTML = `
+                <span class="accordion-arrow" aria-hidden="true">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M6 9l6 6 6-6"></path>
+                    </svg>
+                </span>
+                <span class="accordion-toggle-text">Show all</span>
+            `;
+
+            control.appendChild(toggle);
+            list.insertAdjacentElement('afterend', control);
+
+            const setExpanded = (expanded) => {
+                toggle.setAttribute('aria-expanded', expanded ? 'true' : 'false');
+                hiddenItems.forEach(item => item.classList.toggle('accordion-item-hidden', !expanded));
+                const label = toggle.querySelector('.accordion-toggle-text');
+                if (label) {
+                    label.textContent = expanded ? 'Show less' : 'Show all';
+                }
+            };
+
+            toggle.addEventListener('click', () => {
+                const expanded = toggle.getAttribute('aria-expanded') === 'true';
+                setExpanded(!expanded);
+            });
+        });
+    };
+
+    initAccordions();
 });

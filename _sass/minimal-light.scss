@@ -367,6 +367,61 @@ ul {
   margin-right: 10px;
 }
 
+.accordion-section {
+  position: relative;
+}
+
+.accordion-item-hidden {
+  display: none;
+}
+
+.accordion-control {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 10px;
+}
+
+.accordion-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 12px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text);
+  font-weight: 700;
+  cursor: pointer;
+  transition: background 0.2s ease, color 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.accordion-toggle:hover {
+  background: var(--subtle);
+  border-color: var(--accent);
+  color: var(--accent);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+}
+
+.accordion-toggle:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+.accordion-arrow {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.accordion-arrow svg {
+  display: block;
+  transition: transform 0.2s ease;
+}
+
+.accordion-toggle[aria-expanded="true"] .accordion-arrow svg {
+  transform: rotate(180deg);
+}
+
 .publications {
   margin-top: 8px;
 }
