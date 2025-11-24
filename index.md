@@ -58,6 +58,10 @@
   {% include_relative _includes/viz.md %}
 </section>
 
+<section class="section" id="coding">
+  {% include_relative _includes/coding.md %}
+</section>
+
 <section class="section" id="lobby">
   {% include_relative _includes/lobby.md %}
 </section>
