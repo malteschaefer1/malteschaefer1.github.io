@@ -15,6 +15,24 @@ layout: null
 </head>
 <body>
   <div class="page">
+    <div class="site-nav-bar" aria-label="Primary navigation">
+      <div class="site-nav-shell">
+        <nav class="site-nav">
+          <a href="#about">About</a>
+          <a href="#interests">Interests</a>
+          <a href="#news">News</a>
+          <a href="#publications">Publications</a>
+          <a href="#teaching">Teaching</a>
+          <a href="#talks">Talks</a>
+          <a href="#science-comm">Science Comm</a>
+          <a href="#visualizations">Visualizations</a>
+          <a href="#coding">Coding</a>
+          <a href="#lobby">Lobby</a>
+          <a href="#imprint">Imprint</a>
+        </nav>
+      </div>
+    </div>
+
     <header class="site-header">
       <div class="brand">
         <img src="{{ site.avatar | relative_url }}" alt="{{ site.title }} portrait" class="avatar">
@@ -50,24 +68,6 @@ layout: null
         </div>
       </div>
     </header>
-
-    <div class="site-nav-bar" aria-label="Primary navigation">
-      <div class="site-nav-shell">
-        <nav class="site-nav">
-          <a href="#about">About</a>
-          <a href="#interests">Interests</a>
-          <a href="#news">News</a>
-          <a href="#publications">Publications</a>
-          <a href="#teaching">Teaching</a>
-          <a href="#talks">Talks</a>
-          <a href="#science-comm">Science Comm</a>
-          <a href="#visualizations">Visualizations</a>
-          <a href="#coding">Coding</a>
-          <a href="#lobby">Lobby</a>
-          <a href="#imprint">Imprint</a>
-        </nav>
-      </div>
-    </div>
 
     <main class="content" id="top">
       {{ content }}

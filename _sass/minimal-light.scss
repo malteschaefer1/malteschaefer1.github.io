@@ -100,8 +100,10 @@ img {
 .name-row {
   display: flex;
   align-items: center;
+  justify-content: space-between;
   gap: 12px;
   flex-wrap: wrap;
+  width: 100%;
 }
 
 .eyebrow {
@@ -269,7 +271,7 @@ img {
 .site-nav-bar {
   position: sticky;
   top: 0;
-  z-index: 25;
+  z-index: 35;
   padding: 2px 0 6px;
   background: linear-gradient(180deg, var(--bg) 0%, rgba(255, 255, 255, 0) 100%);
 }
@@ -425,6 +427,15 @@ ul {
   color: var(--muted);
   font-size: 0.95rem;
   margin-bottom: 12px;
+}
+
+.repo-meta strong {
+  font-weight: 800;
+}
+
+.repo-meta em {
+  display: block;
+  font-style: italic;
 }
 
 .badge {

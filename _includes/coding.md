@@ -14,7 +14,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://github.com/malteschaefer1/malteschaefer1.github.io">malteschaefer1.github.io</a></div>
     <div class="repo-summary">Source for this academic website with custom Minimal Light layout, section includes, and theme toggle built on Jekyll.</div>
-    <div class="repo-meta">License: Creative Commons Zero v1.0 Universal | Updated Nov 24, 2025</div>
+    <div class="repo-meta"><strong>License:</strong> Creative Commons Zero v1.0 Universal<br><em>Updated Nov 24, 2025</em></div>
     <div class="links">
       <a href="https://github.com/malteschaefer1/malteschaefer1.github.io" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Repository</a>
     </div>
@@ -33,7 +33,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://github.com/malteschaefer1/wedding-website">wedding-website</a></div>
     <div class="repo-summary">Responsive wedding-site template with RSVP submissions to Google Sheets, calendar links, Uber/map helpers, and media embeds.</div>
-    <div class="repo-meta">License: GNU General Public License v3.0 | Updated Nov 24, 2025</div>
+    <div class="repo-meta"><strong>License:</strong> GNU General Public License v3.0<br><em>Updated Nov 24, 2025</em></div>
     <div class="links">
       <a href="https://github.com/malteschaefer1/wedding-website" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Repository</a>
     </div>
@@ -52,7 +52,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://github.com/malteschaefer1/pci">pci</a></div>
     <div class="repo-summary">Browser-based Product Circularity Indicator calculator that mirrors the PCI/CCI/CII workflow with CSV import/export, validation, and charts.</div>
-    <div class="repo-meta">License: MIT License | Updated Nov 21, 2025</div>
+    <div class="repo-meta"><strong>License:</strong> MIT License<br><em>Updated Nov 21, 2025</em></div>
     <div class="links">
       <a href="https://github.com/malteschaefer1/pci" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Repository</a>
     </div>
@@ -71,7 +71,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://github.com/malteschaefer1/webscraping_CE_EU">webscraping_CE_EU</a></div>
     <div class="repo-summary">Python scraper for the EU Circular Economy good-practice directory that exports a CSV of listings and optional count plots for key attributes.</div>
-    <div class="repo-meta">License: MIT License | Updated Nov 19, 2025</div>
+    <div class="repo-meta"><strong>License:</strong> MIT License<br><em>Updated Nov 19, 2025</em></div>
     <div class="links">
       <a href="https://github.com/malteschaefer1/webscraping_CE_EU" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Repository</a>
     </div>
@@ -90,7 +90,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://github.com/malteschaefer1/procafocia">procafocia</a></div>
     <div class="repo-summary">FastAPI + SQLite scaffold that maps BOMs to Product Carbon Footprint and Circularity Indicator outputs with mapping review flows and sample datasets.</div>
-    <div class="repo-meta">License: MIT License | Updated Nov 19, 2025</div>
+    <div class="repo-meta"><strong>License:</strong> MIT License<br><em>Updated Nov 19, 2025</em></div>
     <div class="links">
       <a href="https://github.com/malteschaefer1/procafocia" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Repository</a>
     </div>
@@ -109,7 +109,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://github.com/malteschaefer1/slip-friction-estimate">slip-friction-estimate</a></div>
     <div class="repo-summary">Single-page teaching tool that visualizes tire slip vs. friction, lets students enter measurements, and exports CSVs with modeled values.</div>
-    <div class="repo-meta">License: MIT License | Updated Nov 11, 2025</div>
+    <div class="repo-meta"><strong>License:</strong> MIT License<br><em>Updated Nov 11, 2025</em></div>
     <div class="links">
       <a href="https://github.com/malteschaefer1/slip-friction-estimate" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Repository</a>
     </div>
@@ -128,7 +128,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://github.com/malteschaefer1/Waermewahl">Waermewahl</a></div>
     <div class="repo-summary">Interactive dashboard (WIP) comparing oil heating with a heat pump across cost, emissions, and subsidy scenarios using a pure HTML/JS stack.</div>
-    <div class="repo-meta">License: MIT License | Updated Nov 11, 2025</div>
+    <div class="repo-meta"><strong>License:</strong> MIT License<br><em>Updated Nov 11, 2025</em></div>
     <div class="links">
       <a href="https://github.com/malteschaefer1/Waermewahl" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Repository</a>
     </div>
@@ -147,7 +147,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://github.com/malteschaefer1/CO2mpaRE">CO2mpaRE</a></div>
     <div class="repo-summary">Early-stage scripts to fetch, clean, and compare high-temporal-resolution electricity emission factors; pipelines write processed CSVs for analysis.</div>
-    <div class="repo-meta">License: MIT License | Updated Nov 11, 2025</div>
+    <div class="repo-meta"><strong>License:</strong> MIT License<br><em>Updated Nov 11, 2025</em></div>
     <div class="links">
       <a href="https://github.com/malteschaefer1/CO2mpaRE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Repository</a>
     </div>
@@ -166,7 +166,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://github.com/malteschaefer1/bicycle_model">bicycle_model</a></div>
     <div class="repo-summary">Lightweight linear bicycle model app for teaching lateral dynamics with sliders, stability warnings, and on-canvas force visualization.</div>
-    <div class="repo-meta">License: MIT License | Updated Nov 8, 2025</div>
+    <div class="repo-meta"><strong>License:</strong> MIT License<br><em>Updated Nov 8, 2025</em></div>
     <div class="links">
       <a href="https://github.com/malteschaefer1/bicycle_model" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Repository</a>
     </div>
@@ -185,7 +185,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://github.com/malteschaefer1/EFmethodmadness">EFmethodmadness</a></div>
     <div class="repo-summary">Notebooks powering the grid emission factor study "Method Madness," including ENTSO-E data wrangling, factor calculation variants, and plotting.</div>
-    <div class="repo-meta">License: MIT License | Updated May 2, 2024</div>
+    <div class="repo-meta"><strong>License:</strong> MIT License<br><em>Updated May 2, 2024</em></div>
     <div class="links">
       <a href="https://github.com/malteschaefer1/EFmethodmadness" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Repository</a>
     </div>
@@ -204,7 +204,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://github.com/malteschaefer1/environmental-impact-from-electricity-production">environmental-impact-from-electricity-production</a></div>
     <div class="repo-summary">Slide-friendly notebook that combines SMARD grid data with Brightway2/Ecoinvent to explore environmental impacts of electricity production.</div>
-    <div class="repo-meta">License: MIT License | Updated Apr 11, 2023</div>
+    <div class="repo-meta"><strong>License:</strong> MIT License<br><em>Updated Apr 11, 2023</em></div>
     <div class="links">
       <a href="https://github.com/malteschaefer1/environmental-impact-from-electricity-production" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Repository</a>
     </div>
