@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<h2 class="section-title">Publications</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -7,7 +7,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/identify_s2.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/identify_s2.png" alt="Identifying options for additionality tests cover" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Scope 2 emissions</abbr>
   </div>
 
@@ -28,7 +28,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/lca_biogas.PNG" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/lca_biogas.PNG" alt="Biogas life cycle assessment cover" class="teaser img-fluid z-depth-1">
     <abbr class="badge">LCA & Renewables</abbr>
   </div>
 
@@ -49,7 +49,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/gridEF.PNG" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/gridEF.PNG" alt="Grid emission factors publication cover" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Scope 2 emissions</abbr>
   </div>
 
@@ -72,7 +72,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/doughnut.PNG" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/doughnut.PNG" alt="Measuring the Doughnut cover" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Abs. sustainability</abbr>
   </div>
 
@@ -93,7 +93,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/carbonmgmt.jpg" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/carbonmgmt.jpg" alt="Scope 2 workshop report cover" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Scope 2 emissions</abbr>
   </div>
 
@@ -113,7 +113,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/em_conf_fig.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/em_conf_fig.png" alt="Emerging materials conference paper figure" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Emerging Materials</abbr>
   </div>
 
@@ -133,7 +133,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/ed_review_ga.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/ed_review_ga.png" alt="Ecodesign review cover" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Ecodesign</abbr>
   </div>
 
@@ -154,7 +154,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/em_book_fig.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/em_book_fig.png" alt="Emerging materials book chapter figure" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Emerging Materials</abbr>
   </div>
 
@@ -170,7 +170,5 @@
 </div>
 </li>
   
-<br>
-
 </ol>
 </div>

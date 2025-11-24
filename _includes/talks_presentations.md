@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Talks & Presentations</h2>
+<h2 class="section-title">Talks &amp; Presentations</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -7,7 +7,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/zurich.PNG" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/zurich.PNG" alt="LCA Discussion Forum presentation in Zurich" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Scope 2 emissions</abbr>
   </div>
 
@@ -26,7 +26,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/poster_gee.PNG" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/poster_gee.PNG" alt="Poster for GEE Student Chapter" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Scope 2 emissions</abbr>
   </div>
 
@@ -46,7 +46,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/scope2_dtu.PNG" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/scope2_dtu.PNG" alt="Scope 2 workshop presentation at DTU" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Scope 2 emissions</abbr>
   </div>
 
@@ -65,7 +65,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/openmod_wien_2023.PNG" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/openmod_wien_2023.PNG" alt="Openmod 2023 workshop poster" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Scope 2 emissions</abbr>
   </div>
 
@@ -84,7 +84,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/sesaau_2022.PNG" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/sesaau_2022.PNG" alt="SESAAU 2022 presentation slide" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Emission Accounting</abbr>
   </div>
 
@@ -103,7 +103,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/sbti_sda.PNG" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/sbti_sda.PNG" alt="Sectoral Decarbonization Approach slides" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Emission Targets</abbr>
   </div>
 
@@ -122,7 +122,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/ei_res.PNG" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/ei_res.PNG" alt="Renewable electricity impact assessment presentation" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Emission accounting</abbr>
   </div>
 
@@ -141,7 +141,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/lca_survey.PNG" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/lca_survey.PNG" alt="LCA survey report cover" class="teaser img-fluid z-depth-1">
     <abbr class="badge">LCA Survey</abbr>
   </div>
 
@@ -156,7 +156,5 @@
 </div>
 </li>
   
-<br>
-
 </ol>
 </div>

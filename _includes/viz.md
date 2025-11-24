@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Visualizations</h2>
+<h2 class="section-title">Visualizations</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -7,7 +7,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/h2_chromatography.PNG" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/h2_chromatography.PNG" alt="EU renewable hydrogen flowchart visualization" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Green Hydrogen</abbr>
   </div>
 
@@ -26,7 +26,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/dsm_taxonomy.PNG" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/dsm_taxonomy.PNG" alt="Demand side management taxonomy visualization" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Demand Side Mgmt.</abbr>
   </div>
 
@@ -41,7 +41,5 @@
 </div>
 </li>
   
-<br>
-
 </ol>
 </div>

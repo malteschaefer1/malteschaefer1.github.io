@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Teaching</h2>
+<h2 class="section-title">Teaching</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -7,7 +7,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/lecture_wuppertal.PNG" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/lecture_wuppertal.PNG" alt="Guest lecture at BU Wuppertal" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Sustainable Prod. Dvl.</abbr>
   </div>
 
@@ -26,7 +26,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/ed_lca_kl2.PNG" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/ed_lca_kl2.PNG" alt="Ecodesign and LCA lecture at RWTH Aachen" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Ecodesign/LCA</abbr>
   </div>
 
@@ -41,6 +41,4 @@
 </div>
 </li>
   
-<br>
-
 </ol>

@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Science Communication</h2>
+<h2 class="section-title">Science Communication</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -7,7 +7,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/50shades.PNG" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/50shades.PNG" alt="Public lecture 50 Shades of Green" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Renewable Energy</abbr>
   </div>
 
@@ -27,7 +27,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/wisskomm_phaeno.PNG" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/wisskomm_phaeno.PNG" alt="Meet the scientist exhibit at phaeno" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Renewable Energy</abbr>
   </div>
 
@@ -46,7 +46,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/slam_2021_bs.PNG" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/slam_2021_bs.PNG" alt="Science slam presentation at Haus der Wissenschaft" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Renewable Energy</abbr>
   </div>
 
@@ -62,7 +62,5 @@
 </div>
 </li>
   
-<br>
-
 </ol>
 </div>

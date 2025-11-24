@@ -1,20 +1,23 @@
+const applyTheme = (theme) => {
+    document.documentElement.setAttribute('data-theme', theme);
+    const switchLabel = document.querySelector('.theme-switch');
+    if (switchLabel) {
+        switchLabel.setAttribute('aria-pressed', theme === 'dark');
+    }
+};
+
 document.addEventListener('DOMContentLoaded', () => {
     const themeToggle = document.getElementById('theme-toggle');
-    const currentTheme = localStorage.getItem('theme') || 'light';
+    const savedTheme = localStorage.getItem('theme');
+    const prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+    const currentTheme = savedTheme || (prefersDark ? 'dark' : 'light');
 
-    if (currentTheme === 'dark') {
-        document.documentElement.setAttribute('data-theme', 'dark');
-        if (themeToggle) {
-            themeToggle.checked = true;
-        }
-    } else {
-        document.documentElement.setAttribute('data-theme', 'light');
-    }
-
+    applyTheme(currentTheme);
     if (themeToggle) {
+        themeToggle.checked = currentTheme === 'dark';
         themeToggle.addEventListener('change', function() {
             const newTheme = this.checked ? 'dark' : 'light';
-            document.documentElement.setAttribute('data-theme', newTheme);
+            applyTheme(newTheme);
             localStorage.setItem('theme', newTheme);
         });
     }

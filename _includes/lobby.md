@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Lobbying</h2>
+<h2 class="section-title">Lobbying</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -8,7 +8,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/oekostrom_nlbl.PNG" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/oekostrom_nlbl.PNG" alt="Green electricity procurement briefing" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Renewable Energy</abbr>
   </div>
 
@@ -27,7 +27,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/iea_letter.PNG" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/iea_letter.PNG" alt="Open letter to the International Energy Agency" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Open Data</abbr>
   </div>
 
@@ -42,7 +42,5 @@
 </div>
 </li>
   
-<br>
-
 </ol>
 </div>
