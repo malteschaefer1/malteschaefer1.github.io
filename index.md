@@ -1,6 +1,8 @@
 ---
 layout: homepage
 ---
+<!-- Font Awesome for icons -->
+<script src="https://kit.fontawesome.com/your-kit-id.js" crossorigin="anonymous"></script>
 
 ## About Me
 
