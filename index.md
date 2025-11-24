@@ -18,6 +18,7 @@
     <li>Corporate GHG Accounting</li>
     <li>Product Carbon Footprint (PCF)</li>
     <li>Scope 2 Emissions</li>
+    <li>Build software tools</li>
   </ul>
 </section>
 
