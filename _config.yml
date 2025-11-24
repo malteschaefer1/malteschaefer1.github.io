@@ -19,7 +19,7 @@ researchgate: https://www.researchgate.net/profile/Malte-Schaefer
 github_link: https://github.com/malteschaefer1
 exclude_repos:
   # Add repo names to hide them from the Coding section (case-sensitive)
-   - wedding-website
+   wedding-website
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
