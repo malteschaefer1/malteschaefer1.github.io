@@ -75,6 +75,9 @@ img {
   display: grid;
   gap: 14px;
   align-items: center;
+  position: sticky;
+  top: 0;
+  z-index: 30;
 }
 
 .brand {
@@ -154,6 +157,14 @@ img {
   transform: translateY(-1px);
 }
 
+.chip-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 800;
+  width: 18px;
+}
+
 .site-nav {
   display: flex;
   flex-wrap: wrap;
@@ -191,7 +202,7 @@ img {
 .theme-switch {
   display: inline-flex;
   align-items: center;
-  gap: 10px;
+  gap: 12px;
   color: var(--muted);
   font-weight: 600;
   font-size: 0.95rem;
@@ -242,6 +253,12 @@ img {
   overflow: hidden;
   clip: rect(0, 0, 0, 0);
   border: 0;
+}
+
+.switch-text {
+  font-weight: 600;
+  color: var(--muted);
+  font-size: 0.95rem;
 }
 
 .content {
