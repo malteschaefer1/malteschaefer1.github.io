@@ -7,7 +7,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='270' height='150' viewBox='0 0 270 150'><rect width='270' height='150' fill='%232f5ae8'/><text x='50%' y='50%' fill='white' font-family='Arial, sans-serif' font-size='18' text-anchor='middle' dominant-baseline='middle'>CIRP 2025</text></svg>" alt="CIRP 2025 proceedings cover" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/circular_sme.PNG" alt="CIRP 2025 proceedings cover" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Circular Manufacturing</abbr>
   </div>
 
@@ -17,7 +17,6 @@
     <div class="periodical"><em>Elsevier/Procedia CIRP (58th CIRP Conference on Manufacturing Systems), 2025.</em></div>
     <div class="links">
       <a href="assets/files/advancing_circular_manufacturing.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://doi.org/10.1016/j.procir.2025.03.058" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">DOI</a>
       <strong><i style="color:#A8DADC">Conference paper</i></strong>
     </div>
   </div>
