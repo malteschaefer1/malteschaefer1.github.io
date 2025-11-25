@@ -52,3 +52,9 @@
   badge: "Jupyter Notebook"
   summary: "Slide-friendly notebook that combines SMARD grid data with Brightway2/Ecoinvent to explore environmental impacts of electricity production."
   fallback_gradient: "linear-gradient(135deg, #0f9b0f, #1cb5e0)"
+
+- name: reibwertschaetzung
+  fallback_gradient: "linear-gradient(135deg, #1e3c72, #ffaf7b)"
+
+- name: fzg_laengsdynamik
+  fallback_gradient: "linear-gradient(135deg, #00467f, #a5cc82)"
