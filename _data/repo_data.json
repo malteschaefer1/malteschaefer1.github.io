@@ -1,1 +1,67 @@
-{}
+{
+  "bicycle_model": {
+    "image": "https://raw.githubusercontent.com/malteschaefer1/bicycle_model/master/example.png",
+    "pushed_at": "2025-11-24T15:07:11Z",
+    "default_branch": "master"
+  },
+  "CO2mpaRE": {
+    "image": null,
+    "pushed_at": "2025-11-11T13:44:38Z",
+    "default_branch": "main"
+  },
+  "EFmethodmadness": {
+    "image": "https://github.com/malteschaefer1/EFmethodmadness/assets/29174285/9ce58eb3-d855-412e-82fc-19336649403c",
+    "pushed_at": "2024-03-14T11:12:46Z",
+    "default_branch": "main"
+  },
+  "environmental-impact-from-electricity-production": {
+    "image": "https://raw.githubusercontent.com/malteschaefer1/environmental-impact-from-electricity-production/master/example.png",
+    "pushed_at": "2025-11-24T15:02:14Z",
+    "default_branch": "master"
+  },
+  "fzg_laengsdynamik": {
+    "image": "https://raw.githubusercontent.com/malteschaefer1/fzg_laengsdynamik/master/ui-screenshot.png",
+    "pushed_at": "2025-11-24T15:25:21Z",
+    "default_branch": "master"
+  },
+  "malteschaefer1.github.io": {
+    "image": null,
+    "pushed_at": "2025-11-25T11:37:08Z",
+    "default_branch": "main"
+  },
+  "pci": {
+    "image": "https://raw.githubusercontent.com/malteschaefer1/pci/master/examples/flowchart_generic.png",
+    "pushed_at": "2025-11-21T14:55:51Z",
+    "default_branch": "master"
+  },
+  "procafocia": {
+    "image": null,
+    "pushed_at": "2025-11-19T09:30:12Z",
+    "default_branch": "master"
+  },
+  "reibwertschaetzung": {
+    "image": "https://raw.githubusercontent.com/malteschaefer1/reibwertschaetzung/master/ui_screenshot.png",
+    "pushed_at": "2025-11-24T15:31:18Z",
+    "default_branch": "master"
+  },
+  "slip-friction-estimate": {
+    "image": null,
+    "pushed_at": "2025-11-11T13:59:31Z",
+    "default_branch": "master"
+  },
+  "Waermewahl": {
+    "image": "https://raw.githubusercontent.com/malteschaefer1/Waermewahl/master/example.png",
+    "pushed_at": "2025-11-24T15:11:32Z",
+    "default_branch": "master"
+  },
+  "webscraping_CE_EU": {
+    "image": null,
+    "pushed_at": "2025-11-19T11:47:08Z",
+    "default_branch": "master"
+  },
+  "wedding-website": {
+    "image": "https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png",
+    "pushed_at": "2025-11-24T07:05:48Z",
+    "default_branch": "master"
+  }
+}
