@@ -1,0 +1,54 @@
+- name: malteschaefer1.github.io
+  badge: SCSS
+  summary: "Source for this academic website with custom Minimal Light layout, section includes, and theme toggle built on Jekyll."
+  fallback_gradient: "linear-gradient(135deg, #2f5ae8, #6ac8ff)"
+
+- name: wedding-website
+  badge: HTML
+  summary: "Responsive wedding-site template with RSVP submissions to Google Sheets, calendar links, Uber/map helpers, and media embeds."
+  fallback_gradient: "linear-gradient(135deg, #ff7e5f, #feb47b)"
+
+- name: pci
+  badge: JavaScript
+  summary: "Browser-based Product Circularity Indicator calculator that mirrors the PCI/CCI/CII workflow with CSV import/export, validation, and charts."
+  fallback_gradient: "linear-gradient(135deg, #2f5ae8, #6ac8ff)"
+
+- name: webscraping_CE_EU
+  badge: Python
+  summary: "Python scraper for the EU Circular Economy good-practice directory that exports a CSV of listings and optional count plots for key attributes."
+  fallback_gradient: "linear-gradient(135deg, #0f9b8e, #43cea2)"
+
+- name: procafocia
+  badge: Python
+  summary: "FastAPI + SQLite scaffold that maps BOMs to Product Carbon Footprint and Circularity Indicator outputs with mapping review flows and sample datasets."
+  fallback_gradient: "linear-gradient(135deg, #4b6cb7, #182848)"
+
+- name: slip-friction-estimate
+  badge: HTML
+  summary: "Single-page teaching tool that visualizes tire slip vs. friction, lets students enter measurements, and exports CSVs with modeled values."
+  fallback_gradient: "linear-gradient(135deg, #f2994a, #f2c94c)"
+
+- name: Waermewahl
+  badge: HTML
+  summary: "Interactive dashboard (WIP) comparing oil heating with a heat pump across cost, emissions, and subsidy scenarios using a pure HTML/JS stack."
+  fallback_gradient: "linear-gradient(135deg, #1d2671, #c33764)"
+
+- name: CO2mpaRE
+  badge: Python
+  summary: "Early-stage scripts to fetch, clean, and compare high-temporal-resolution electricity emission factors; pipelines write processed CSVs for analysis."
+  fallback_gradient: "linear-gradient(135deg, #1e3c72, #2a5298)"
+
+- name: bicycle_model
+  badge: HTML
+  summary: "Lightweight linear bicycle model app for teaching lateral dynamics with sliders, stability warnings, and on-canvas force visualization."
+  fallback_gradient: "linear-gradient(135deg, #003973, #e5e5be)"
+
+- name: EFmethodmadness
+  badge: "Jupyter Notebook"
+  summary: "Notebooks powering the grid emission factor study \"Method Madness,\" including ENTSO-E data wrangling, factor calculation variants, and plotting."
+  fallback_gradient: "linear-gradient(135deg, #2f5ae8, #6ac8ff)"
+
+- name: environmental-impact-from-electricity-production
+  badge: "Jupyter Notebook"
+  summary: "Slide-friendly notebook that combines SMARD grid data with Brightway2/Ecoinvent to explore environmental impacts of electricity production."
+  fallback_gradient: "linear-gradient(135deg, #0f9b0f, #1cb5e0)"

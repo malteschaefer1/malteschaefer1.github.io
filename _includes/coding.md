@@ -1,251 +1,47 @@
 <h2 class="section-title">Coding</h2>
 
-{% assign excluded = site.exclude_repos | default: '' | split: ',' %}
+{% assign excluded = site.exclude_repos | default: '' %}
+{% assign repo_data = site.data.repo_data | default: {} %}
 
 <div class="publications">
 <ol class="bibliography">
 
-{% assign repo_meta = site.github.public_repositories | where: "name", "malteschaefer1.github.io" | first %}
-{% unless excluded contains 'malteschaefer1.github.io' or repo_meta.archived %}
-<li>
-<div class="pub-row repo-card">
+{% for entry in site.data.coding_repos %}
+  {% assign repo_meta = site.github.public_repositories | where: "name", entry.name | first %}
+  {% assign data = repo_data[entry.name] %}
+  {% assign archive_flag = repo_meta.archived | default: false %}
+  {% unless excluded contains entry.name or archive_flag %}
+  <li>
+  <div class="pub-row repo-card">
 
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <div class="teaser repo-tile" style="background: linear-gradient(135deg, #2f5ae8, #6ac8ff);">malteschaefer1.github.io</div>
-    <abbr class="badge">SCSS</abbr>
-  </div>
+    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+      {% assign image_src = data.image | default: repo_meta.open_graph_image_url %}
+      {% if image_src %}
+        <img src="{{ image_src }}" alt="{{ entry.name }} preview" class="teaser img-fluid z-depth-1">
+      {% else %}
+        <div class="teaser repo-tile" style="background: {{ entry.fallback_gradient | default: 'linear-gradient(135deg, #2f5ae8, #6ac8ff)' }};">{{ entry.name }}</div>
+      {% endif %}
+      <abbr class="badge">{{ entry.badge | default: repo_meta.language | default: 'Code' }}</abbr>
+    </div>
 
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://github.com/malteschaefer1/malteschaefer1.github.io">malteschaefer1.github.io</a></div>
-    <div class="repo-summary">Source for this academic website with custom Minimal Light layout, section includes, and theme toggle built on Jekyll.</div>
-    <div class="repo-meta"><strong>License:</strong> Creative Commons Zero v1.0 Universal<br><em>Updated Nov 24, 2025</em></div>
-    <div class="links">
-      <a href="https://github.com/malteschaefer1/malteschaefer1.github.io" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Repository</a>
+    <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      {% assign repo_url = repo_meta.html_url | default: site.github.owner_url | append: '/' | append: entry.name %}
+      <div class="title"><a href="{{ repo_url }}">{{ entry.name }}</a></div>
+      <div class="repo-summary">{{ entry.summary | default: repo_meta.description }}</div>
+      {% assign updated_at = data.pushed_at | default: repo_meta.pushed_at | default: repo_meta.updated_at %}
+      {% assign license = repo_meta.license.spdx_id | default: repo_meta.license.key | default: "License not specified" %}
+      <div class="repo-meta"><strong>License:</strong> {{ license }}<br><em>Updated {{ updated_at | date: "%b %-d, %Y" }}</em></div>
+      <div class="links">
+        <a href="{{ repo_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Repository</a>
+        {% if repo_meta.homepage and repo_meta.homepage != "" %}
+        <a href="{{ repo_meta.homepage }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Demo</a>
+        {% endif %}
+      </div>
     </div>
   </div>
-</div>
-</li>
-{% endunless %}
-
-{% assign repo_meta = site.github.public_repositories | where: "name", "wedding-website" | first %}
-{% unless excluded contains 'wedding-website' or repo_meta.archived %}
-<li>
-<div class="pub-row repo-card">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <div class="teaser repo-tile" style="background: linear-gradient(135deg, #ff7e5f, #feb47b);">wedding-website</div>
-    <abbr class="badge">HTML</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://github.com/malteschaefer1/wedding-website">wedding-website</a></div>
-    <div class="repo-summary">Responsive wedding-site template with RSVP submissions to Google Sheets, calendar links, Uber/map helpers, and media embeds.</div>
-    <div class="repo-meta"><strong>License:</strong> GNU General Public License v3.0<br><em>Updated Nov 24, 2025</em></div>
-    <div class="links">
-      <a href="https://github.com/malteschaefer1/wedding-website" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Repository</a>
-    </div>
-  </div>
-</div>
-</li>
-{% endunless %}
-
-{% assign repo_meta = site.github.public_repositories | where: "name", "pci" | first %}
-{% unless excluded contains 'pci' or repo_meta.archived %}
-<li>
-<div class="pub-row repo-card">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://raw.githubusercontent.com/malteschaefer1/pci/master/examples/flowchart_generic.png" alt="Flowchart of the PCI workflow" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">JavaScript</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://github.com/malteschaefer1/pci">pci</a></div>
-    <div class="repo-summary">Browser-based Product Circularity Indicator calculator that mirrors the PCI/CCI/CII workflow with CSV import/export, validation, and charts.</div>
-    <div class="repo-meta"><strong>License:</strong> MIT License<br><em>Updated Nov 21, 2025</em></div>
-    <div class="links">
-      <a href="https://github.com/malteschaefer1/pci" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Repository</a>
-    </div>
-  </div>
-</div>
-</li>
-{% endunless %}
-
-{% assign repo_meta = site.github.public_repositories | where: "name", "webscraping_CE_EU" | first %}
-{% unless excluded contains 'webscraping_CE_EU' or repo_meta.archived %}
-<li>
-<div class="pub-row repo-card">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <div class="teaser repo-tile" style="background: linear-gradient(135deg, #0f9b8e, #43cea2);">webscraping_CE_EU</div>
-    <abbr class="badge">Python</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://github.com/malteschaefer1/webscraping_CE_EU">webscraping_CE_EU</a></div>
-    <div class="repo-summary">Python scraper for the EU Circular Economy good-practice directory that exports a CSV of listings and optional count plots for key attributes.</div>
-    <div class="repo-meta"><strong>License:</strong> MIT License<br><em>Updated Nov 19, 2025</em></div>
-    <div class="links">
-      <a href="https://github.com/malteschaefer1/webscraping_CE_EU" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Repository</a>
-    </div>
-  </div>
-</div>
-</li>
-{% endunless %}
-
-{% assign repo_meta = site.github.public_repositories | where: "name", "procafocia" | first %}
-{% unless excluded contains 'procafocia' or repo_meta.archived %}
-<li>
-<div class="pub-row repo-card">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <div class="teaser repo-tile" style="background: linear-gradient(135deg, #4b6cb7, #182848);">procafocia</div>
-    <abbr class="badge">Python</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://github.com/malteschaefer1/procafocia">procafocia</a></div>
-    <div class="repo-summary">FastAPI + SQLite scaffold that maps BOMs to Product Carbon Footprint and Circularity Indicator outputs with mapping review flows and sample datasets.</div>
-    <div class="repo-meta"><strong>License:</strong> MIT License<br><em>Updated Nov 19, 2025</em></div>
-    <div class="links">
-      <a href="https://github.com/malteschaefer1/procafocia" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Repository</a>
-    </div>
-  </div>
-</div>
-</li>
-{% endunless %}
-
-{% assign repo_meta = site.github.public_repositories | where: "name", "slip-friction-estimate" | first %}
-{% unless excluded contains 'slip-friction-estimate' or repo_meta.archived %}
-<li>
-<div class="pub-row repo-card">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <div class="teaser repo-tile" style="background: linear-gradient(135deg, #f2994a, #f2c94c);">slip-friction-estimate</div>
-    <abbr class="badge">HTML</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://github.com/malteschaefer1/slip-friction-estimate">slip-friction-estimate</a></div>
-    <div class="repo-summary">Single-page teaching tool that visualizes tire slip vs. friction, lets students enter measurements, and exports CSVs with modeled values.</div>
-    <div class="repo-meta"><strong>License:</strong> MIT License<br><em>Updated Nov 11, 2025</em></div>
-    <div class="links">
-      <a href="https://github.com/malteschaefer1/slip-friction-estimate" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Repository</a>
-    </div>
-  </div>
-</div>
-</li>
-{% endunless %}
-
-{% assign repo_meta = site.github.public_repositories | where: "name", "Waermewahl" | first %}
-{% unless excluded contains 'Waermewahl' or repo_meta.archived %}
-<li>
-<div class="pub-row repo-card">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <div class="teaser repo-tile" style="background: linear-gradient(135deg, #1d2671, #c33764);">Waermewahl</div>
-    <abbr class="badge">HTML</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://github.com/malteschaefer1/Waermewahl">Waermewahl</a></div>
-    <div class="repo-summary">Interactive dashboard (WIP) comparing oil heating with a heat pump across cost, emissions, and subsidy scenarios using a pure HTML/JS stack.</div>
-    <div class="repo-meta"><strong>License:</strong> MIT License<br><em>Updated Nov 11, 2025</em></div>
-    <div class="links">
-      <a href="https://github.com/malteschaefer1/Waermewahl" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Repository</a>
-    </div>
-  </div>
-</div>
-</li>
-{% endunless %}
-
-{% assign repo_meta = site.github.public_repositories | where: "name", "CO2mpaRE" | first %}
-{% unless excluded contains 'CO2mpaRE' or repo_meta.archived %}
-<li>
-<div class="pub-row repo-card">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <div class="teaser repo-tile" style="background: linear-gradient(135deg, #1e3c72, #2a5298);">CO2mpaRE</div>
-    <abbr class="badge">Python</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://github.com/malteschaefer1/CO2mpaRE">CO2mpaRE</a></div>
-    <div class="repo-summary">Early-stage scripts to fetch, clean, and compare high-temporal-resolution electricity emission factors; pipelines write processed CSVs for analysis.</div>
-    <div class="repo-meta"><strong>License:</strong> MIT License<br><em>Updated Nov 11, 2025</em></div>
-    <div class="links">
-      <a href="https://github.com/malteschaefer1/CO2mpaRE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Repository</a>
-    </div>
-  </div>
-</div>
-</li>
-{% endunless %}
-
-{% assign repo_meta = site.github.public_repositories | where: "name", "bicycle_model" | first %}
-{% unless excluded contains 'bicycle_model' or repo_meta.archived %}
-<li>
-<div class="pub-row repo-card">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <div class="teaser repo-tile" style="background: linear-gradient(135deg, #003973, #e5e5be);">bicycle_model</div>
-    <abbr class="badge">HTML</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://github.com/malteschaefer1/bicycle_model">bicycle_model</a></div>
-    <div class="repo-summary">Lightweight linear bicycle model app for teaching lateral dynamics with sliders, stability warnings, and on-canvas force visualization.</div>
-    <div class="repo-meta"><strong>License:</strong> MIT License<br><em>Updated Nov 8, 2025</em></div>
-    <div class="links">
-      <a href="https://github.com/malteschaefer1/bicycle_model" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Repository</a>
-    </div>
-  </div>
-</div>
-</li>
-{% endunless %}
-
-{% assign repo_meta = site.github.public_repositories | where: "name", "EFmethodmadness" | first %}
-{% unless excluded contains 'EFmethodmadness' or repo_meta.archived %}
-<li>
-<div class="pub-row repo-card">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://github.com/malteschaefer1/EFmethodmadness/assets/29174285/9ce58eb3-d855-412e-82fc-19336649403c" alt="Histogram preview from EFmethodmadness notebook" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Jupyter Notebook</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://github.com/malteschaefer1/EFmethodmadness">EFmethodmadness</a></div>
-    <div class="repo-summary">Notebooks powering the grid emission factor study "Method Madness," including ENTSO-E data wrangling, factor calculation variants, and plotting.</div>
-    <div class="repo-meta"><strong>License:</strong> MIT License<br><em>Updated May 2, 2024</em></div>
-    <div class="links">
-      <a href="https://github.com/malteschaefer1/EFmethodmadness" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Repository</a>
-    </div>
-  </div>
-</div>
-</li>
-{% endunless %}
-
-{% assign repo_meta = site.github.public_repositories | where: "name", "environmental-impact-from-electricity-production" | first %}
-{% unless excluded contains 'environmental-impact-from-electricity-production' or repo_meta.archived %}
-<li>
-<div class="pub-row repo-card">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <div class="teaser repo-tile" style="background: linear-gradient(135deg, #0f9b0f, #1cb5e0);">environmental-impact-from-electricity-production</div>
-    <abbr class="badge">Jupyter Notebook</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://github.com/malteschaefer1/environmental-impact-from-electricity-production">environmental-impact-from-electricity-production</a></div>
-    <div class="repo-summary">Slide-friendly notebook that combines SMARD grid data with Brightway2/Ecoinvent to explore environmental impacts of electricity production.</div>
-    <div class="repo-meta"><strong>License:</strong> MIT License<br><em>Updated Apr 11, 2023</em></div>
-    <div class="links">
-      <a href="https://github.com/malteschaefer1/environmental-impact-from-electricity-production" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Repository</a>
-    </div>
-  </div>
-</div>
-</li>
-{% endunless %}
+  </li>
+  {% endunless %}
+{% endfor %}
 
 </ol>
 </div>
